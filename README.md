@@ -147,8 +147,8 @@ finding-similar-players/
 
 ### Model Performance
 - Successfully identified 2/3 of ESPN's expert recommendations
-- Predicted Raphinha as top target → Confirmed by transfer news
-- Excluded unrealistic options (goalkeepers, defenders, retired players)
+- Predicted Raphinha as top target which was confirmed by transfer news. Raphinha also went on to carry Barcelona to a title in 2025 and become a world-class output machine, validating the model's recommendations. 
+- Excluded unrealistic options (goalkeepers, defenders)
 
 ### Business Value
 - **Cost Efficiency**: Raphinha (£46M) vs alternatives (£56M-£93M)
@@ -174,10 +174,5 @@ finding-similar-players/
 - **Validation Sources**: ESPN, The Athletic
 - **Inspiration**: Liverpool's actual transfer challenges during AFCON 2022
 
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-
----
 
 **⚽ Finding the perfect player, one algorithm at a time.**

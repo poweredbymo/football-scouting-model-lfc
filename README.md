@@ -8,7 +8,7 @@
 
 This project tackles a real challenge faced by Liverpool FC during the 2022 Africa Cup of Nations: finding a replacement for Mohamed Salah while he represents Egypt. Using the FIFA 22 dataset and machine learning, I built a player recommendation system that identifies the most similar players based on 30+ performance attributes.
 
-**Key Finding:** The model identified **Raphinha** as the ideal replacement - a result that matched real-world transfer rumors reported by The Athletic and ESPN.
+**Key Finding:** The model identified **Raphinha** as the ideal replacement which matched real-world transfer rumors reported by The Athletic and ESPN. Additionally in 2025, Raphinha went on to carry Barcelona to a title and become a world-class output machine, validating this project's results.
 
 ---
 
@@ -16,7 +16,7 @@ This project tackles a real challenge faced by Liverpool FC during the 2022 Afri
 
 - **Context**: Liverpool loses 3 key African players (including Salah) to AFCON in January
 - **Impact**: 6 crucial matches across 3 competitions during their absence
-- **Challenge**: Salah had 23 goals + 10 assists - how do you replace that?
+- **Challenge**: Salah had 23 goals + 10 assists, how do you replace that?
 - **Solution**: Data-driven player scouting using similarity algorithms
 
 ---
@@ -45,17 +45,6 @@ This project tackles a real challenge faced by Liverpool FC during the 2022 Afri
 - Cross-validated KNN results
 - 40% overlap with KNN recommendations
 
-### 3. **Key Attributes Analyzed**
-```python
-attributes = [
-    'Finishing', 'Penalties', 'SprintSpeed', 'Dribbling',
-    'ShortPassing', 'BallControl', 'Agility', 'Reactions',
-    'Positioning', 'Vision', 'Composure', 'Stamina'
-    # ... and 20 more
-]
-```
-
----
 
 ## 📊 Key Findings
 

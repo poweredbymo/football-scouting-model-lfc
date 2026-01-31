@@ -114,13 +114,7 @@ jupyter notebook notebooks/player_similarity_analysis.ipynb
 
 ```
 finding-similar-players/
-├── data/
-│   ├── README.md              # Instructions to download FIFA dataset
-│   └── FIFA22_official_data.csv.zip  (not included - see data/README.md)
-├── notebooks/
-│   └── player_similarity_analysis.ipynb  # Main analysis
-├── images/
-│   └── *.png                  # Visualizations for README
+├── Similar_players_analysis.ipynb 
 ├── requirements.txt
 ├── .gitignore
 └── README.md

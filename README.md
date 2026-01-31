@@ -1,10 +1,8 @@
-# 🎯 Finding Similar Football Players Using Machine Learning
+# 🎯 Scouting Similar Football Players Using Machine Learning
 
 **Solving Real-World Problems: Who Can Replace Mohamed Salah?**
 
-<p align="center">
-  <img src="images/salah_comparison.png" alt="Player Comparison" width="600"/>
-</p>
+
 
 ## 📖 Project Overview
 

@@ -169,4 +169,3 @@ finding-similar-players/
 - **Inspiration**: Liverpool's actual transfer challenges during AFCON 2022
 
 
-**⚽ Finding the perfect player, one algorithm at a time.**

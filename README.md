@@ -1,10 +1,10 @@
-# 🎯 Scouting Similar Football Players Using Machine Learning
+# Scouting Similar Football Players Using Machine Learning
 
 **Solving Real-World Problems: Who Can Replace Mohamed Salah?**
 
 
 
-## 📖 Project Overview
+## Project Overview
 
 This project tackles a real challenge faced by Liverpool FC during the 2022 Africa Cup of Nations: finding a replacement for Mohamed Salah while he represents Egypt. Using the FIFA 22 dataset and machine learning, I built a player recommendation system that identifies the most similar players based on 30+ performance attributes.
 
@@ -12,7 +12,7 @@ This project tackles a real challenge faced by Liverpool FC during the 2022 Afri
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 - **Context**: Liverpool loses 3 key African players (including Salah) to AFCON in January
 - **Impact**: 6 crucial matches across 3 competitions during their absence
@@ -21,7 +21,7 @@ This project tackles a real challenge faced by Liverpool FC during the 2022 Afri
 
 ---
 
-## 🛠️ Technical Approach
+## Technical Approach
 
 ### 1. **Data Cleaning & Feature Engineering**
 - Started with 16,710 players and 65 variables
@@ -46,7 +46,7 @@ This project tackles a real challenge faced by Liverpool FC during the 2022 Afri
 - 40% overlap with KNN recommendations
 
 
-## 📊 Key Findings
+## Key Findings
 
 ### Top 5 Similar Players to Salah:
 
@@ -65,7 +65,7 @@ This project tackles a real challenge faced by Liverpool FC during the 2022 Afri
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The notebook includes:
 - **Polar charts** comparing player attributes
@@ -76,7 +76,7 @@ The notebook includes:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -110,7 +110,7 @@ jupyter notebook notebooks/player_similarity_analysis.ipynb
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 finding-similar-players/
@@ -122,7 +122,7 @@ finding-similar-players/
 
 ---
 
-## 🔍 Methodology Deep Dive
+## Methodology 
 
 ### Why KNN Over K-Means?
 1. **Supervised vs Unsupervised**: KNN provides ranked similarity scores
@@ -137,7 +137,7 @@ finding-similar-players/
 
 ---
 
-## 📊 Results & Impact
+## Results & Impact
 
 ### Model Performance
 - Successfully identified 2/3 of ESPN's expert recommendations
@@ -151,7 +151,7 @@ finding-similar-players/
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - [ ] Incorporate real-time match data (not just FIFA ratings)
 - [ ] Add injury history and availability analysis
@@ -162,7 +162,7 @@ finding-similar-players/
 ---
 
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Data Source**: [FIFA 22 Complete Player Dataset](https://www.kaggle.com/datasets/stefanoleone992/fifa-22-complete-player-dataset) (Kaggle)
 - **Validation Sources**: ESPN, The Athletic
